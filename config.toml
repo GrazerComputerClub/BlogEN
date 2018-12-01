@@ -13,18 +13,18 @@ paginate = 5 #frontpage pagination
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
   slogan = "Information around computer, programming, electronics and IT"
-  description = "Blog des Grazer Computer Club - GC2" # meta description
+  description = "Blog of Grazer Computer Club - GC2" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "GC2"
   authorLink = "https://gc2.at"
   bio = [
     "GC2 - Grazer Computer Club e. V.",
     "ZVR: 1093020071",
-    "Rechtlicher Sitz: Graz"
+    "Legal domicile: Graz"
   ]
   copyright = [
     "CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/",
-    "2018, Grazer Computer Club e. V.",
+    "2018, Grazer Computer Club",
     "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
   ]
 
@@ -55,7 +55,7 @@ paginate = 5 #frontpage pagination
   weight = 1
 
   [[menu.main]]
-  name = "Impressum"
+  name = "about us"
   url = "impressum/"
   weight = 2
 
@@ -65,7 +65,7 @@ paginate = 5 #frontpage pagination
 # weight = 3
 
   [[menu.main]]
-  name = "Hauptseite"
+  name = "Main website"
   url = "http://gc2.at"
   weight = 4
 
