@@ -1,6 +1,7 @@
 baseurl = "https://grazercomputerclub.github.io/BlogEN"
 title = "GC2 Blog"
 theme = "hugo-nederburg-theme"
+defaultContentLanguage = "en"
 languageCode = "en-uk"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
